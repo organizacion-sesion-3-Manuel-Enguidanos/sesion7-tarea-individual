@@ -1,7 +1,7 @@
 Tarea 1
 Diseño web adaptable:
 
-Objetivo: Convertir el "Hola mundo" en una página web responsive que se adapte a diferentes dispositivos (móviles, tablets, desktops).
+Objetivo: Convertir el archivo proporcionada index.html - "Hola mundo" en una página web responsive que se adapte a diferentes dispositivos (móviles, tablets, desktops).
 
 Requisitos:
 Usar media queries para ajustar el diseño a diferentes tamaños de pantalla.
